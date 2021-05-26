@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_550997_laptop_pr_provisioned_laptops">x_550997_laptop_pr_provisioned_laptops</category>
+        <maximum_digits>4</maximum_digits>
+        <number>1000</number>
+        <prefix>PRO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-26 17:06:22</sys_created_on>
+        <sys_id>c121fa222f503010a4c82e5df699b627</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRO</sys_name>
+        <sys_package display_value="laptop_provisioning" source="x_550997_laptop_pr">8b603a6e2f103010a4c82e5df699b6ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="laptop_provisioning">8b603a6e2f103010a4c82e5df699b6ba</sys_scope>
+        <sys_update_name>sys_number_c121fa222f503010a4c82e5df699b627</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-26 17:06:22</sys_updated_on>
+    </sys_number>
+</record_update>
